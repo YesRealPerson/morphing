@@ -27,9 +27,9 @@ Then call morph with the desired `t` parameter.
 ```
 frame = morph(nortonimg, norton["lines"], pittimg, pitt["lines"], t=0.5)
 ```
-Do this over a loop to generate a video or something
-<img src="./example1.gif">
-<img src="./example2.gif">
+Do this over a loop to generate a video or something<br/>
+<img src="./example1.gif"><br/>
+<img src="./example2.gif"><br/>
 # Running pose generation (Claude)
 
 ```

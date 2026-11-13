@@ -3,3 +3,5 @@ pose_out/
 __pycache__/
 examples/originals
 examples/pose
+morph.gif
+morph.mp4
