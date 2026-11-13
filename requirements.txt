@@ -1,0 +1,7 @@
+# CUDA build of torch: pip install -r requirements.txt --extra-index-url https://download.pytorch.org/whl/cu128
+torch
+torchvision
+opencv-python
+numpy
+huggingface_hub
+matplotlib
